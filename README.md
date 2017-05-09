@@ -1,2 +1,2 @@
 # riddles
-Go cli for riddles
+Riddles via the command line.
