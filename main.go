@@ -35,7 +35,7 @@ func init() {
 func main() {
 
 	if version {
-		fmt.Println("version: 0.1")
+		fmt.Println("riddle version 0.1")
 		return
 	}
 
