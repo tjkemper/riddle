@@ -12,6 +12,6 @@
    "2":{
       "id":2,
       "question":"You're standing somewhere on the surface of the earth. \nYou walk 1 mile south, 1 mile west, and then 1 mile north. \nYou end up exactly where you started. \nWhere are you? (2 correct answers: find both)",
-      "answer":"Answer 1 (easy answer): the north pole.\n Answer 2 (difficult answer): Somewhere near the south pole a mile above where the circumference of the earth is 1 mile."
+      "answer":"Answer 1 (easy answer): the north pole.\nAnswer 2 (difficult answer): Somewhere near the south pole a mile above where the circumference of the earth is 1 mile."
    }
 }
