@@ -67,7 +67,7 @@ func printRiddle(riddle Riddle, answer bool) {
 	} else {
 		fmt.Println(colorstring.Color("[yellow]" + "Get answer"))
 		fmt.Println(colorstring.Color("[yellow]" + "=========="))
-		fmt.Printf("riddles -id %d -answer\n\n", riddle.ID)
+		fmt.Printf("riddle -id %d -answer\n\n", riddle.ID)
 	}
 }
 
