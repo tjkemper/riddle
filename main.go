@@ -44,11 +44,14 @@ func main() {
 	}
 
 	var riddle Riddle
-
 	if id == -1 {
 		riddle = GetRandomRiddle()
 	} else {
-		riddle = GetRiddleByID(id)
+		var foundRiddle bool
+		riddle, foundRiddle = GetRiddleByID(id)
+		if !foundRiddle {
+			usageAndExit(fmt.Sprintf("id of %d does not exist", id), 0)
+		}
 	}
 
 	printRiddle(riddle, answer)

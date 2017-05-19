@@ -1,0 +1,12 @@
+{
+   "0":{
+      "id":0,
+      "question":"Why do programmers confuse Halloween and Christmas?",
+      "answer":"Because Oct 31 == Dec 25\n\n'Oct' refers to October and Octal. 'Dec' refers to December and Decimal."
+   },
+   "1":{
+      "id":1,
+      "question":"Get all four people (A, B, C, D) over the bridge in 17 minutes.\nThe bridge is weak, so only 2 people can walk over at a time.\nIt's dark, so the pair needs the flashlight to cross.\n\nTime it takes for each person to walk over the bridge (pair has to stick together):\nA - 1 minute\nB - 2 minutes\nC - 5 minutes\nD - 10 minutes",
+      "answer":"A B over (2 min)\nA   back (3 min)\nC D over (13 min)\nB   back (15 min)\nA B over (17 min)"
+   }
+}
