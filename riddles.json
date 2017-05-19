@@ -8,5 +8,10 @@
       "id":1,
       "question":"Get all four people (A, B, C, D) over the bridge in 17 minutes.\nThe bridge is weak, so only 2 people can walk over at a time.\nIt's dark, so the pair needs the flashlight to cross.\n\nTime it takes for each person to walk over the bridge (pair has to stick together):\nA - 1 minute\nB - 2 minutes\nC - 5 minutes\nD - 10 minutes",
       "answer":"A B over (2 min)\nA   back (3 min)\nC D over (13 min)\nB   back (15 min)\nA B over (17 min)"
+   },
+   "2":{
+      "id":2,
+      "question":"You're standing somewhere on the surface of the earth. \nYou walk 1 mile south, 1 mile west, and then 1 mile north. \nYou end up exactly where you started. \nWhere are you? (2 correct answers: find both)",
+      "answer":"Answer 1 (easy answer): the north pole.\n Answer 2 (difficult answer): Somewhere near the south pole a mile above where the circumference of the earth is 1 mile."
    }
 }
