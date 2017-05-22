@@ -31,6 +31,16 @@ ___         ___
        ^
 ```
 
+###### todo json
+
+```json
+"9":{
+      "id":9,
+      "question":"There are 9 coins.\n8 weigh the same.\n1 weighs less.\nUsing a scale, how many weighings does it take to find the lighter coin?\n\n___         ___\n |           |\n -------------\n       ^",
+      "answer":""
+   }
+```
+
 ## 5. Can you place 8 queens on a chess board such that no queens attack each other?
 
 ## 6. Alice wants to send Bob a message.
@@ -45,12 +55,12 @@ A windowless room contains three identical light fixtures, each containing an id
 
 ## 9. How many games are played in a bracket?
 
-## 10. How many times a day do the two clock hands meet?
+## 10. How many times a day do clock hands overlap?
 
 ## 11. Lockers
-Locker toggle: There are 100 closed lockers. Toggling a locker means opening it if it is closed or closing it if it is open. First toggle each locker. Then toggle every 2nd locker, then every 3rd, every 4th… through to 100. How many lockers are open at the end? Why?
+There are 100 closed lockers. Toggling a locker means opening it if it's closed or closing it if it's open. First toggle each locker. Then toggle every 2nd locker, then every 3rd, every 4th… through to 100. How many lockers are open at the end? Why?
 
-## 12. Move two match sticks, get the fly out of the wine glass
+## 12. Move two match sticks to get the fly out of the wine glass. Must end up with a wine glass after moving the match sticks.
  
 ![wine glass](images/wineGlass.jpg)
  
@@ -59,11 +69,11 @@ Locker toggle: There are 100 closed lockers. Toggling a locker means opening it 
 2) If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets
 3) In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take to cover half the lake?
 
-## 14. Two ropes burn at an hour each, how can you measure
-1) 2 hours
-2) hour and a half
-3) 45 min
-*(note the ropes have “uneven” burn rates throughout, i.e. we should not light it in the middle)*
+## 14. Two ropes burn an hour each. How can you measure:
+a) 2 hours  
+b) Hour and a half  
+c) 45 min  
+*(Note: the ropes have “uneven” burn rates throughout, i.e. we should not light it in the middle)*
 
 ## 15. Links
 Join the four three-link chains on the left to form the circular chain on the right. To join two chains, you must cut, and then re-weld, a link. How do you form the circle in three cuts.

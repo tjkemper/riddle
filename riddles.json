@@ -13,5 +13,35 @@
       "id":2,
       "question":"You're standing somewhere on the surface of the earth. \nYou walk 1 mile south, 1 mile west, and then 1 mile north. \nYou end up exactly where you started. \nWhere are you? (2 correct answers: find both)",
       "answer":"Answer 1 (easy answer): the north pole.\nAnswer 2 (difficult answer): Somewhere near the south pole a mile above where the circumference of the earth is 1 mile."
+   },
+   "3":{
+      "id":3,
+      "question":"Can you place 8 queens on a chess board such that no queens attack each other?",
+      "answer":"There are 92 distinct solutions.  Here is one:\n8 ║…  …  …  ♛  …  …  …  …\n7 ║…  …  …  …  …  …  ♛  …\n6 ║…  …  ♛  …  …  …  …  …\n5 ║…  …  …  …  …  …  …  ♛\n4 ║…  ♛  …  …  …  …  …  …\n3 ║…  …  …  …  ♛  …  …  …\n2 ║♛  …  …  …  …  …  …  …\n1 ║…  …  …  …  …  ♛  …  …\n—-╚═══════════════════════\n—— a  b  c  d  e  f  g  h"
+   },
+   "4":{
+      "id":4,
+      "question":"Alice and Bob each have a padlock and key. Alice also has a box (which can be locked).\nHow can Alice send a message to Bob securely?",
+      "answer":"Alice locks the box with her padlock and sends it to Bob.\nBob puts his lock on as well and sends it back.\nAlice unlocks her padlock and again sends it to Bob.\nNow Bob can unlock his padlock and read the message!"
+   },
+   "5":{
+      "id":5,
+      "question":"How many times a day do clock hands overlap?",
+      "answer":"22"
+   },
+   "6":{
+      "id":6,
+      "question":"There are 100 closed lockers.\nToggling a locker means opening it if it's closed or closing it if it's open.\nFirst toggle each locker. Then toggle every 2nd locker, then every 3rd, every 4th… through to 100.\nHow many lockers are open at the end? Why?",
+      "answer":"10 lockers. All the square numbers."
+   },
+   "7":{
+      "id":7,
+      "question":"Move two match sticks to get the fly out of the wine glass.\nMust end up with a wine glass after moving the match sticks.\n\n|     |\n|  *  |\n|     |\n-------\n   |\n   |\n   |",
+      "answer":"Start:\n\n|     |\n|  *  |\n|     |\n-------\n   |\n   |\n   |\n\nAfter move one:\n\n|     |\n|  *  |\n|     |\n   -------\n   |\n   |\n   |\n\nAfter move two:\n\n      |\n   *  |\n      |\n   -------\n   |     |\n   |     |\n   |     |"
+   },
+   "8":{
+      "id":8,
+      "question":"Two ropes burn an hour each. How can you measure:\na) 2 hours\nb) Hour and a half\nc) 45 min\n\nNote: the ropes have “uneven” burn rates throughout, i.e. we should not light it in the middle.",
+      "answer":"a) Burn one rope, then the other.\n\nb) Light both ends of one rope. When that burns out, light the other rope.\n\nc) Light both ends of one rope and one end of the other. When the first rope burns out, light the unlit end of the other rope."
    }
 }
