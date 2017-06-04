@@ -1,6 +1,7 @@
 ## Links
 * [everything computer science](http://everythingcomputerscience.com/CSPuzzles.html)
 * [puzzle toad](https://www.cs.cmu.edu/puzzle/)
+* [xkcd riddles](http://wiki.xkcd.com/irc/Puzzles)
 
 
 ## 1. You walk 1 mile south, 1 mile west, and 1 mile north.  You end up at the same spot.  Where are you?
