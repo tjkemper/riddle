@@ -84,3 +84,9 @@ Join the four three-link chains on the left to form the circular chain on the ri
 ## 16. Why do Americans have more freckles on the left side of their face?
 
 ## 17. https://en.wikipedia.org/wiki/Prisoners_and_hats_puzzle
+
+## 18 Water Jug
+
+You have a 3-gallon and a 5-gallon jug that you can fill from a fountain of water.
+
+How do you get exactly 4 gallons
