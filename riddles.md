@@ -96,7 +96,7 @@ There is a pond with lily pads in it. Every day the amount of lily pads in the p
 
 ## 20. Dumbass, M.D.
 
-From http://www.defectiveyeti.com/archives/000339.html . 
+From http://www.defectiveyeti.com/archives/000339.html  
 You have Some Terminal Disease, which necessitates taking two pills a day: one Pill A and one Pill B. If you neglect to take either pill, you die; if you take more than one A or more than one B, you die. If you don't take them at exactly the same time, you die.  
 This morning you are going through your usual routine. You pick up your bottle of A Pills and gently tap one into your palm. Then you pick up your bottle of B Pills and tap it, but two pills accidentally fall into your hand. You now hold three pills (one A and two Bs), you don't know which are which, and they are completely indistinguishable from each other. The A Pills are the same color as the B Pills, they are the same shape, same size -- they appear identical in every respect. Man, your doctor is a dumbass. But he's a rich dumbass, because he's charging you $10,000,000 a pill! So you dare not throw any away.
 Thus, the puzzle: what can you do to ensure that you take only one A Pill and only one B Pill today, without wasting any pills (either today or in the future)?  
