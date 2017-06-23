@@ -85,11 +85,11 @@ Join the four three-link chains on the left to form the circular chain on the ri
 
 ## 17. https://en.wikipedia.org/wiki/Prisoners_and_hats_puzzle
 
-## 18 Water Jug
+## 18. Water Jug
 
 You have a 3-gallon and a 5-gallon jug that you can fill from a fountain of water.
 
 How do you get exactly 4 gallons
 
-## 19 Lily pads
+## 19. Lily pads
 There is a pond with lily pads in it. Every day the amount of lily pads in the pond doubles. (2,4,8,16,32, etc.) If on the 30th day the pond is completely full, on which day was it half full?
