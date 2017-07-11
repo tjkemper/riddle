@@ -104,3 +104,7 @@ This morning you are going through your usual routine. You pick up your bottle o
 Thus, the puzzle: what can you do to ensure that you take only one A Pill and only one B Pill today, without wasting any pills (either today or in the future)?
 
 **Note:** Counting the remaining pills in both bottles is not the solution.
+
+## 21. String around Earth
+
+Tie a string around the Earth.  Then raise the string off the ground by 1 meter.  How much longer must the string be?
