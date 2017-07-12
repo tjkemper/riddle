@@ -108,3 +108,6 @@ Thus, the puzzle: what can you do to ensure that you take only one A Pill and on
 ## 21. String around Earth
 
 Tie a string around the Earth.  Then raise the string off the ground by 1 meter.  How much longer must the string be?
+
+## 22. [Wheat and chessboard problem](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem)
+If a chessboard were to have wheat placed upon each square such that one grain were placed on the first square, two on the second, four on the third, and so on (doubling the number of grains on each subsequent square), how many grains of wheat would be on the chessboard at the finish?
