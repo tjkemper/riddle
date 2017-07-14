@@ -111,3 +111,7 @@ Tie a string around the Earth.  Then raise the string off the ground by 1 meter.
 
 ## 22. [Wheat and chessboard problem](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem)
 If a chessboard were to have wheat placed upon each square such that one grain were placed on the first square, two on the second, four on the third, and so on (doubling the number of grains on each subsequent square), how many grains of wheat would be on the chessboard at the finish?
+
+## 23. [Fruit Jar Problem](https://www.techinterview.org/post/3233459687/fruit-jar-problem/)
+
+You have 3 jars that are all mislabeled. One jar contains Apple, another contains Oranges and the third jar contains a mixture of both Apple and Oranges. You are allowed to pick as many fruits as you want from each jar to fix the labels on the jars. What is the minimum number of fruits that you have to pick and from which jars to correctly label them?
