@@ -115,3 +115,15 @@ If a chessboard were to have wheat placed upon each square such that one grain w
 ## 23. [Fruit Jar Problem](https://www.techinterview.org/post/3233459687/fruit-jar-problem/)
 
 You have 3 jars that are all mislabeled. One jar contains Apple, another contains Oranges and the third jar contains a mixture of both Apple and Oranges. You are allowed to pick as many fruits as you want from each jar to fix the labels on the jars. What is the minimum number of fruits that you have to pick and from which jars to correctly label them?
+
+## 24. Hats & Prisoners
+
+Their are 10 prisoners standing in a line *(facing forward)*.  Each prisoner has either a black or white hat and can only see the prisoners in front of them.  If at least 9 prisoners guess the color of their own hat, they all go free.  What strategy will give the greatest chance of going free?
+
+## 25. [Pirates](https://www.youtube.com/watch?v=Mc6VA7Q1vXQ)
+
+## 26. [Temple](https://www.youtube.com/watch?v=nSbvlktToSY)
+
+## 27. [Virus](https://www.youtube.com/watch?v=ZKh6z0X6KRw)
+
+
