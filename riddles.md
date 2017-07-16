@@ -128,3 +128,6 @@ Their are 10 prisoners standing in a line *(facing forward)*.  Each prisoner has
 
 ## 28. [River Crossing](https://www.youtube.com/watch?v=ADR7dUoVh_c)
 * 3 lions & 3 wildebeest
+
+## 29. [Airplane around the world](https://www.youtube.com/watch?v=dzrwnwOx0fw)
+
