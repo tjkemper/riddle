@@ -131,3 +131,6 @@ Their are 10 prisoners standing in a line *(facing forward)*.  Each prisoner has
 
 ## 29. [Airplane around the world](https://www.youtube.com/watch?v=dzrwnwOx0fw)
 
+## 30. [Gold for 7 days of work](http://www.mytechinterviews.com/gold-for-7-days-of-work)
+
+You’ve got someone working for you for seven days and a gold bar to pay them. You must pay the worker for their work at the end of every day. If you are only allowed to make two breaks in the gold bar, how do you pay your worker? (Assuming equal amount of work is done during each day thus requiring equal amount of pay for each day)
